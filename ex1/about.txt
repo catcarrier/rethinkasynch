@@ -1,0 +1,8 @@
+Using callbacks only:
+
+Request three files at once (assume you receive the entire file content as one response)
+Render the response immediately
+But render them in order e.g. file1, file2...
+After all are rendered, print "Complete!"
+
+
